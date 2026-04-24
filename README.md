@@ -12,4 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=leo-leo-691&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=leo-leo-691&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=leo-leo-691&theme=great-gatsby&no-frame=true&no-bg=true&margin-w=4)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
